@@ -11,8 +11,7 @@
 
 <!-- TYPING ANIMATION -->
 
-# 🎬 Animation Flow Name
-> A lightweight, promise-driven engine for orchestrating complex UI transitions.
+<img src="https://camo.githubusercontent.com/4cd08193fa7d4c409bc1a139cc5cdfd360f7ade42c46d9f21235d7c077ac90e2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3232266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3730413546442663656e7465723d74727565267643656e7465723d74727565267265706561743d747275652677696474683d353030266865696768743d3435266c696e65733d4275696c64696e672b5175616c6974792b536f6674776172652b2546302539462539412538303b4f70656e2b536f757263652b436f6e7472696275746f722b2546302539462539322541313b416c776179732b4c6561726e696e672b4e65772b546563682b254630253946253933253941" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=45&amp;lines=Building+Quality+Software+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%A1;Always+Learning+New+Tech+%F0%9F%93%9A" style="max-width: 100%;">
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Software-70a5fd?style=for-the-badge" alt="focus"/>
