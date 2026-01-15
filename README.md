@@ -11,7 +11,8 @@
 
 <!-- TYPING ANIMATION -->
 
-
+# 🎬 Animation Flow Name
+> A lightweight, promise-driven engine for orchestrating complex UI transitions.
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Software-70a5fd?style=for-the-badge" alt="focus"/>
