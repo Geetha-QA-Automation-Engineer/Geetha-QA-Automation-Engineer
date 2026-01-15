@@ -64,8 +64,20 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geetha-QA-Automation-Engineer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/
+      ?username=Geetha-QA-Automation-Engineer
+      &theme=tokyonight
+      &no-frame=true
+      &no-bg=true
+      &column=5
+      &margin-w=10
+      &margin-h=10
+      &rank=SSS,SS,S,AAA,AA,A"
+    alt="GitHub Trophies"
+  />
 </div>
+
 
 ---
 
