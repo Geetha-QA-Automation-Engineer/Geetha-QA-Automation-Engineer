@@ -11,26 +11,9 @@
 
 <!-- TYPING ANIMATION -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &weight=600
-      &size=22
-      &duration=3000
-      &pause=1000
-      &color=70A5FD
-      &center=true
-      &vCenter=true
-      &repeat=true
-      &width=500
-      &height=45
-      &lines=Building+Quality+Software+🚀
-      ;Open+Source+Contributor+💡
-      ;Always+Learning+New+Tech+📚"
-    alt="Typing Animation"
-  />
-</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Building+Quality+Software+🚀;Open+Source+Contributor+💡;Always+Learning+New+Tech+📚)
+
 
 <!-- PROFILE BADGES -->
 <p>
